@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import * as bonjour from 'bonjour';
+import bonjour from 'bonjour';
 
 import { InfoModule } from './info/info.module';
 
